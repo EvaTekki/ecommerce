@@ -1,0 +1,7 @@
+black: #000
+soft red: #DB4444
+light green: #00FF66
+yellowish color: #EEFF61
+white: #fff
+product background color: #F5F5F5
+
